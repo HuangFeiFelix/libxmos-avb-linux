@@ -1,7 +1,7 @@
 libxmos-avb-linux
 =================
 
-A port of the xmos sw_avb firmware from xcore to linux:
+(Aborted Project) A port of the xmos sw_avb firmware from xcore to linux:
 https://github.com/xcore/sw_avb
 (https://github.com/xcore/sc_avb)
 
